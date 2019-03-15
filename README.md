@@ -4,10 +4,6 @@ You can use the [editor on GitHub](https://github.com/stanleyhartwell/stanleyhar
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Or download [this file]({{ site.baseurl }}/a.pdf)
-
-or [that file](https://github.com/stanleyhartwell/stanleyhartwell.github.io/blob/master/a.pdf)
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
